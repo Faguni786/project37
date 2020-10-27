@@ -60,7 +60,7 @@ Engine.run(engine);
 
 function draw() {
 
-background(bg);
+background("pink");
 
 Engine.update(engine);
 
